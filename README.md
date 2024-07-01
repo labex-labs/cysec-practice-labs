@@ -28,9 +28,10 @@ This course contains lots of labs for Cyber Security, each lab is a small Cyber 
 |      15 | 📖 Cyber Sleuthing with WiresharkFilters                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/288909'>Start Lab</a> |
 |      16 | 📖 Cyber Filter Mastery Quest                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/288905'>Start Lab</a> |
 |      17 | 📖 Wireshark Color Mastery                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/288906'>Start Lab</a> |
-|      18 | 📖 Network Scanning With Nmap and Metasploit             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289543'>Start Lab</a> |
-|      19 | 📖 Information Gathering Penetration Testing             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289541'>Start Lab</a> |
-|      20 | 📖 Wireshark Enchantment Quest                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/288913'>Start Lab</a> |
+|      18 | 📖 TCP Stream Detective Cyber Chronicles                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/288912'>Start Lab</a> |
+|      19 | 📖 Network Scanning With Nmap and Metasploit             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289543'>Start Lab</a> |
+|      20 | 📖 Information Gathering Penetration Testing             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289541'>Start Lab</a> |
+|      21 | 📖 Wireshark Enchantment Quest                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/288913'>Start Lab</a> |
 
 ## More
 
